@@ -9,6 +9,7 @@
   "author": "Vladislav Khvostov",
   "license": "ISC",
   "dependencies": {
-    "config": "^1.26.2"
+    "config": "^1.26.2",
+    "koa-compose": "^4.0.0"
   }
 }
