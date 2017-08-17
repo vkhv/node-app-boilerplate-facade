@@ -1,0 +1,14 @@
+{
+  "name": "app-boilerplate-facade",
+  "version": "0.1.0",
+  "description": "The platform to combinate clint and server framworks to create app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladislav Khvostov",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^1.26.2"
+  }
+}
