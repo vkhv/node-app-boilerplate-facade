@@ -1,0 +1,3 @@
+{
+  'middlwares-storage': './middlwares-storage'
+}
